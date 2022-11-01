@@ -1,0 +1,13 @@
+1. Design the model classes.
+2. Design the database. Possibly MYSql
+3. Prepare REST API contract
+4. Service layer
+5. Authentication
+6. Microservice architecture
+
+
+
+Extras
+1. Multithreading
+2. API that returns both JSON and XML
+3. Move to AWS.
